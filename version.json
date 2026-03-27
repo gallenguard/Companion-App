@@ -2,6 +2,6 @@
   "app_name": "SalesForce Companion App",
   "version": "4.23",
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "PASTE_DIRECT_URL_TO_ZIP_HERE",
-  "notes": "Optional release notes."
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/Release/SalesForceCompanion_Portable_4.23.zip",
+  "notes": "First release with updater system."
 }
