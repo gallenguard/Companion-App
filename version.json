@@ -3,5 +3,35 @@
   "version": "4.26",
   "exe_name": "SalesForce Companion App.exe",
   "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.26/SalesForce.Companion.App.zip",
-  "notes": "First release with updater system."
+  "notes": "Smart TRF Handling (Fixed + Enhanced)
+Supports both typed and scanned TRFs
+Recognizes valid formats: OR + 10 digits and TRF + 10 digits
+Automatically triggers Scan Order/TRF when valid format is detected
+Eliminates missed scans due to timing issues (now retries reliably)
+Smart Enter (Context-Aware Keybind)
+Enter key now intelligently performs actions based on workflow state:
+TRF field → triggers Scan Order/TRF
+
+Limited to once per DE1 cycle to prevent accidental spam
+
+Smart Workflow Progression
+Improved step-by-step automation:
+TRF → BCK → Waybill → Patient Info
+TRF no longer prematurely advances when typing
+Next-step assist is now smoother and more responsive
+
+Kit Timing & Session Tracking (Fixed)
+Accurate kit timing start and completion detection
+Fixed average time calculation
+Session stats now update correctly across multiple kits
+Performance & Stability
+Reduced unnecessary background processing
+Fixed missed-event issues (no longer relies on single poll timing)
+Improved consistency of automation triggers
+
+Reliability Fixes
+Fixed Smart Enter incorrectly triggering wrong actions
+Fixed Search button targeting the wrong UI element
+Fixed TRF auto-scan not triggering for manually typed values
+Fixed inconsistent detection of field changes."
 }
