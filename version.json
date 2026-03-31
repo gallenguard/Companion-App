@@ -1,7 +1,7 @@
 {
   "app_name": "SalesForce Companion App",
-  "version": "4.27",
+  "version": "4.28",
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.27/SalesForce.Companion.App.zip",
-  "notes":   "Major Optimization Fixes!!!!/nAdded Debug Console on and off button to reduce clutter on console logs"
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.28/SalesForce.Companion.App.zip",
+  "notes":   "Hopefully fixed all the lag issues for now! Yay!! Pls pls >_<"
 }
