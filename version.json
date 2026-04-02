@@ -1,7 +1,7 @@
 {
   "app_name": "SalesForce Companion App",
-  "version": "4.29" ,
+  "version": "4.30" ,
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.29/SalesForce.Companion.App.zip",
-  "notes":   "If you have only DE1 tab open should alleviate lag"
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.30/SalesForce.Companion.App.zip",
+  "notes":   "Makes scanner speedy af! ask gabe how to configure scansnap"
 }
