@@ -1,7 +1,7 @@
 {
   "app_name": "SalesForce Companion App",
-  "version": "4.28",
+  "version": "4.29",
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.28/SalesForce.Companion.App.zip",
-  "notes":   "Hopefully fixed all the lag issues for now! Yay!! Pls pls >_<"
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.29/SalesForce.Companion.App.zip",
+  "notes":   "If you have only DE1 tab open should alleviate lag"
 }
