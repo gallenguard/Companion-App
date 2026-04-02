@@ -1,7 +1,7 @@
 {
   "app_name": "SalesForce Companion App",
-  "version": "4.30" ,
+  "version": "4.31" ,
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.30/SalesForce.Companion.App.zip",
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.31/SalesForce.Companion.App.zip",
   "notes":   "Makes scanner speedy af! ask gabe how to configure scansnap"
 }
