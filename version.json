@@ -1,7 +1,7 @@
 {
   "app_name": "SalesForce Companion App",
-  "version": "4.32" ,
+  "version": "4.33" ,
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.32/SalesForce.Companion.App.zip",
-  "notes":   "Added Build your own workflow! Made much faster, added darkmode added keybind for typing OR0000"
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.33/SalesForce.Companion.App.zip",
+  "notes":   "Added Build your own workflow! Made much faster, added darkmode added keybind for typing OR0000 Bug Fix"
 }
