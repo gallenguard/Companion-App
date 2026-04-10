@@ -1,7 +1,7 @@
 {
   "app_name": "SalesForce Companion App",
-  "version": "4.33" ,
+  "version": "4.34" ,
   "exe_name": "SalesForce Companion App.exe",
-  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.33/SalesForce.Companion.App.zip",
-  "notes":   "Stick to V4.32 newer versions broken"
+  "zip_url": "https://github.com/gallenguard/Companion-App/releases/download/4.34/SalesForce.Companion.App.zip",
+  "notes":   "Lotsa fun stuff :D"
 }
